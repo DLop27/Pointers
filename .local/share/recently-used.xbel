@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///usr" added="2024-09-13T01:27:41.881729Z" modified="2024-09-13T01:27:41.881814Z" visited="2024-09-13T01:27:41.881730Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-09-13T01:27:41.881809Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/lib" added="2024-09-13T01:27:45.759572Z" modified="2024-09-13T01:27:45.759579Z" visited="2024-09-13T01:27:45.759573Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-09-13T01:27:45.759575Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/klinuxdw" added="2024-09-13T01:28:35.964502Z" modified="2024-09-13T01:28:35.964511Z" visited="2024-09-13T01:28:35.964504Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-09-13T01:28:35.964507Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/klinuxdw/Desktop" added="2024-09-13T01:28:41.953581Z" modified="2024-09-13T01:28:41.953588Z" visited="2024-09-13T01:28:41.953582Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-09-13T01:28:41.953585Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/klinuxdw/diana" added="2024-09-13T01:28:45.565135Z" modified="2024-09-13T01:28:45.565142Z" visited="2024-09-13T01:28:45.565136Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-09-13T01:28:45.565138Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/klinuxdw/Documents" added="2024-09-13T01:28:50.945576Z" modified="2024-09-13T01:28:50.945584Z" visited="2024-09-13T01:28:50.945577Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-09-13T01:28:50.945580Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/klinuxdw/Public" added="2024-09-13T01:28:55.808646Z" modified="2024-09-13T01:28:55.808653Z" visited="2024-09-13T01:28:55.808648Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-09-13T01:28:55.808650Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/klinuxdw/Pictures" added="2024-09-13T01:28:59.231123Z" modified="2024-09-13T01:28:59.231131Z" visited="2024-09-13T01:28:59.231125Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-09-13T01:28:59.231127Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
